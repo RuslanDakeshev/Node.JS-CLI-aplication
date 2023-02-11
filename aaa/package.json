@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.js"
+    "start": "node ./index.js",
+    "start:dev": "nodemon ./index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/RuslanDakeshev/Node.JS-CLI-aplication/issues"
   },
-  "homepage": "https://github.com/RuslanDakeshev/Node.JS-CLI-aplication#readme"
+  "homepage": "https://github.com/RuslanDakeshev/Node.JS-CLI-aplication#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
