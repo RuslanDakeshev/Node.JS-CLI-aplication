@@ -1,0 +1,20 @@
+{
+  "name": "node.js-cli-aplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuslanDakeshev/Node.JS-CLI-aplication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuslanDakeshev/Node.JS-CLI-aplication/issues"
+  },
+  "homepage": "https://github.com/RuslanDakeshev/Node.JS-CLI-aplication#readme"
+}
