@@ -20,5 +20,8 @@
   "homepage": "https://github.com/RuslanDakeshev/Node.JS-CLI-aplication#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
   }
 }
